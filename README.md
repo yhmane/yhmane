@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### I'm Yunho Hwang 👋
-### I'm interested in Kotlin, Kafka, MongoDB, Elasticsearch 😄
+I'm Yunho Hwang 👋 <br/>
+I'm interested in Kotlin, Kafka, MongoDB, Elasticsearch 😄
 
 <!--
 **yhmane/yhmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
